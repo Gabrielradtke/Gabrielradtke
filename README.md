@@ -1,16 +1,16 @@
-### Olá! Meu nome é Gabriel Radtke 👋
 
-<!--
-**Gabrielradtke/Gabrielradtke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋🏻 Olá meu nome é Gabriel Radtke, sou estudante de Ciências da Computação e atualmente trabalho como Supervisor de Logística na Associação Brasileira de Criadores de Cavalos Crioulos.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Confira alguns de meus projetos pessoais.
+
+ - [Intervalo entre Partos - Cavalo Crioulo](https://intervaloentrepartos.netlify.app/)
+ - [Portfolio - Gabriel Radtke](https://gabrielradtke.netlify.app/)
+ - [API - CRUD (flask)](https://github.com/Gabrielradtke/api_crud_flask)
+
+
+## Contato
+
+Sinta-se a vontade para me chamar em gabriel_radtke@hotmail.com
