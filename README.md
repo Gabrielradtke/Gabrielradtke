@@ -40,6 +40,6 @@ Tenho interesse por desenvolvimento web, automação de processos e soluções d
 ## 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabrielradtke/)
-- ✉️ gabriel.seuemail@email.com *(substitua pelo real)*
+- ✉️ gabriel_radtke@hotmail.com
 - 🌍 [Meu portfólio](https://gabrielradtke.netlify.app/)
 
