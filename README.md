@@ -3,7 +3,7 @@
 
 Sou estudante de **Ciência da Computação** e atualmente trabalho como **Supervisor de Logística** na Associação Brasileira de Criadores de Cavalos Crioulos.
 
-Tenho interesse por desenvolvimento web, automação de processos e soluções digitais aplicadas ao agronegócio.
+Tenho interesse por desenvolvimento web, automação de processos e soluções digitais aplicadas a negócios.
 
 ---
 
