@@ -18,7 +18,6 @@
     align="left" 
     alt="GitHub Stats" 
     height="200"
-    width="500" 
     src="https://github-readme-stats.vercel.app/api?username=Gabrielradtke&show_icons=true&theme=algolia&include_all_commits=true&locale=pt-br" 
   />
 
@@ -26,7 +25,6 @@
       align="center" 
       alt="GitHub Stats" 
       height="200"
-      width="500"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielradtke&theme=algolia&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
