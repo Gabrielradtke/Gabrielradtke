@@ -1,34 +1,45 @@
 
-👋🏻 Olá meu nome é Gabriel Radtke, sou estudante de Ciências da Computação e atualmente trabalho como Supervisor de Logística na Associação Brasileira de Criadores de Cavalos Crioulos.
+# 👋🏻 Olá! Eu sou Gabriel Radtke
+
+Sou estudante de **Ciência da Computação** e atualmente trabalho como **Supervisor de Logística** na Associação Brasileira de Criadores de Cavalos Crioulos.
+
+Tenho interesse por desenvolvimento web, automação de processos e soluções digitais aplicadas ao agronegócio.
 
 ---
 
+## 🚀 Projetos Pessoais
 
-### Confira alguns de meus projetos pessoais.
-
- - [Intervalo entre Partos - Cavalo Crioulo](https://intervaloentrepartos.netlify.app/)
- - [Portfolio - Gabriel Radtke](https://gabrielradtke.netlify.app/)
- - [API - CRUD (flask)](https://github.com/Gabrielradtke/api_crud_flask)
+- 🔗 [Intervalo entre Partos - Cavalo Crioulo](https://intervaloentrepartos.netlify.app/)
+- 🌐 [Portfolio - Gabriel Radtke](https://gabrielradtke.netlify.app/)
+- 🧪 [API - CRUD com Flask](https://github.com/Gabrielradtke/api_crud_flask)
 
 ---
 
-## Estatísticas
+## 📊 GitHub Stats
+
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="Estatísticas do GitHub" 
     height="200"
     src="https://github-readme-stats.vercel.app/api?username=Gabrielradtke&show_icons=true&theme=algolia&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielradtke&theme=algolia&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Tecnologias" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielradtke&theme=algolia&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
+<br clear="all"/>
+
 ---
-## Contato
-- Sinta-se a vontade para fazer contato em gabriel_radtke@hotmail.com
+
+## 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabrielradtke/)
+- ✉️ gabriel.seuemail@email.com *(substitua pelo real)*
+- 🌍 [Meu portfólio](https://gabrielradtke.netlify.app/)
+
