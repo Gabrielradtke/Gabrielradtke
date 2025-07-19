@@ -22,10 +22,9 @@
   />
 
 <img 
-      align="" 
+      align="left" 
       alt="GitHub Stats" 
       height="200"
-      width="415"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielradtke&theme=algolia&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
