@@ -29,7 +29,6 @@
   />
 </p>
 
----
-  
+
 ## Contato
 - Sinta-se a vontade para fazer contato em gabriel_radtke@hotmail.com
