@@ -4,13 +4,13 @@
 
 
 
-## Confira alguns de meus projetos pessoais.
+### Confira alguns de meus projetos pessoais.
 
  - [Intervalo entre Partos - Cavalo Crioulo](https://intervaloentrepartos.netlify.app/)
  - [Portfolio - Gabriel Radtke](https://gabrielradtke.netlify.app/)
  - [API - CRUD (flask)](https://github.com/Gabrielradtke/api_crud_flask)
 
-## Estatísticas
+### Estatísticas
 <p>
   <img 
     align="left" 
@@ -29,6 +29,5 @@
 
 </p>
   
-## Contato
-
+### Contato
 Sinta-se a vontade para me chamar em gabriel_radtke@hotmail.com
