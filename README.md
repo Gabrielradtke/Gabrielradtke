@@ -17,7 +17,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200"
+    height="200" 
     src="https://github-readme-stats.vercel.app/api?username=Gabrielradtke&show_icons=true&theme=algolia&include_all_commits=true&locale=pt-br" 
   />
 
@@ -27,10 +27,9 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielradtke&theme=algolia&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
 ---
   
 ## Contato
-Sinta-se a vontade para me chamar em gabriel_radtke@hotmail.com
+- Sinta-se a vontade para fazer contato em gabriel_radtke@hotmail.com
