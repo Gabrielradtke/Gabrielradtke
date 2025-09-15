@@ -9,6 +9,7 @@ Tenho interesse por desenvolvimento web, automação de processos e soluções d
 
 ## 🚀 Projetos Pessoais
 
+- 🔗 [Leitor/Controle Acessos QRCode](https://leitorqrcode-radtke.vercel.app/)
 - 🔗 [Intervalo entre Partos - Cavalo Crioulo](https://intervaloentrepartos.netlify.app/)
 - 🌐 [Portfolio - Gabriel Radtke](https://gabrielradtke.netlify.app/)
 - 🧪 [API - CRUD com Flask](https://github.com/Gabrielradtke/api_crud_flask)
