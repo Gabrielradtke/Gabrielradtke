@@ -16,19 +16,6 @@ Tenho interesse por desenvolvimento web, automação de processos e soluções d
 
 ---
 
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielradtke&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielradtke&layout=compact&theme=transparent&hide_border=true" height="170" />
-</p>
-
-
-<br clear="all"/>
-
----
-
 ## 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabrielradtke/)
